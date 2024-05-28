@@ -6,8 +6,8 @@ Content-Type: application/json
 POST http://localhost:3200/task
 Content-Type: application/json
 {
-    "title": "Test",
-    "description": "Test description",
+    "title": "Test 2",
+    "description": "Test description 22",
     "date": "2021-01-01T12:00:00Z",
     "priority": "low",
     "status": "todo"
